@@ -1,0 +1,5 @@
+
+  name: Hugo website deploy action
+  # You may pin to the exact commit or the version.
+  # uses: Kusnaditjung/hugo-deploy-action@a9adb293294dea3056f9e09c11ed0f761d05e8a0
+  uses: Kusnaditjung/hugo-deploy-action@v1
