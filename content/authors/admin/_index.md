@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 吳
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Niek
+last_name: van der Voort
 
 # Status emoji
 status:
@@ -21,7 +21,7 @@ role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: NL AIC
     url: https://www.example.com/
 
 # Social network links
