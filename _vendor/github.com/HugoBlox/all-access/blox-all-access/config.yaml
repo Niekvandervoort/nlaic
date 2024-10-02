@@ -8,3 +8,4 @@ module:
       includeFiles: '**.html'
     - source: assets
       target: assets
+      
