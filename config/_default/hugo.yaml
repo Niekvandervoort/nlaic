@@ -34,7 +34,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: nl
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
