@@ -1,7 +1,7 @@
 ---
 title: 💼 AI in bedrijfsprocessen
 summary: Ontdek hoe AI wordt geïntegreerd in diverse bedrijfsprocessen, van HR en recruitment tot toepassingen in healthcare, educatie, en wetenschappelijk onderzoek.
-date: 2024-02-15
+date: 2024-09-21
 authors:
 - admin
 tags:

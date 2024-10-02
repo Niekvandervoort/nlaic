@@ -1,7 +1,7 @@
 ---
 title: 🤖 AI in het algemeen
 summary: Ontdek de basisprincipes van Artificial Intelligence, de recente ontwikkelingen, en de potentiële impact op onze samenleving.
-date: 2024-02-15
+date: 2024-09-01
 authors:
 - admin
 tags:
