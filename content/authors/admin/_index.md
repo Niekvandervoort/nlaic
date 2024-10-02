@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳
+title: Niek
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -22,7 +22,7 @@ role: AI Researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: NL AIC
-    url: https://www.example.com/
+    url: https://www.nlaic.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
