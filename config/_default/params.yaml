@@ -39,7 +39,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} NL AIC. Made with 🦾. Licentie onder {license}'
+    notice: '© {year} NL AIC. Made with ✨. Licentie onder {license}'
     license:
       enable: true
       allow_derivatives: false
