@@ -11,7 +11,7 @@ main:
     url: tags/
     weight: 20
   - name: Over Ons
-    url: about/
+    url: over-ons/
     weight: 30
   - name: Gebruik
     url: uses/
