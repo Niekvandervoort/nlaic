@@ -8,4 +8,6 @@ module:
       includeFiles: '**.html'
     - source: assets
       target: assets
-      
+
+[params]
+favicon = "/static/icons/icon.png"
