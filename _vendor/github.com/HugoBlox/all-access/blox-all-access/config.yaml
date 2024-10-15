@@ -9,5 +9,5 @@ module:
     - source: assets
       target: assets
 
-[params]
-favicon = "/static/icons/icon.png"
+params:
+  favicon: /static/icons/icon.png
