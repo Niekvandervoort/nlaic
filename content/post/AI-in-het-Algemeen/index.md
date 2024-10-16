@@ -28,4 +28,5 @@ AI is een erg breed begrip met heel veel verschillende toepassingsgebieden. De r
 
 {{< icons/icon vendor=mdi name=play-circle color=#9DC384 >}} [AI in 5 minuten](https://www.youtube.com/watch?v=2ePf9rue1Ao)
 
+
 {{< youtube 2IK3DFHRFfw >}}
