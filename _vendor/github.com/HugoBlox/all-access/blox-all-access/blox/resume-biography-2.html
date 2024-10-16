@@ -8,7 +8,7 @@
 
 {{ $author := $block.content.username | default "admin" }}
 
-{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page_path := (printf "/auteur/%s" $author) }}
 {{ $person_page := site.GetPage $person_page_path }}
 {{ if not $person_page }}
 {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://docs.hugoblox.com/page-builder/#about " $person_page_path }}

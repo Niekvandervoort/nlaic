@@ -29,7 +29,7 @@
         class="grid grid-cols-1 gap-x-8 gap-y-10 ui-not-focus-visible:outline-none sm:grid-cols-2 sm:gap-y-16 md:grid-cols-3">
 
         {{ range $block.content.user_groups }}
-        {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+        {{ $query := where (where site.Pages "Section" "auteur") ".Params.user_groups" "intersect" (slice .) }}
 
         {{/* Sort */}}
         {{ $sort_by := $block.content.sort_by | default "Params.last_name" }}
@@ -48,7 +48,7 @@
         {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
         {{/* Get link to user's profile page. */}}
         {{ $link := "" }}
-        {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
+        {{ with site.GetPage (printf "/auteur/%s" (path.Base .File.Dir)) }}
         {{ $link = .RelPermalink }}
         {{ end }}
         <div>

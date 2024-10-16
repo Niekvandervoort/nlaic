@@ -2,7 +2,7 @@
 title: 🤖 Machine Learning
 summary: Ontdek de basis van machine learning, inclusief unsupervised en supervised learning, met concrete voorbeelden en bronnen.
 date: 2024-09-28
-authors:
+auteur:
 - admin
 tags:
 - Artificial Intelligence
