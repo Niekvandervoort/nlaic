@@ -28,6 +28,5 @@ AI is een erg breed begrip met heel veel verschillende toepassingsgebieden. De r
 
 {{< icons/icon vendor=mdi name=play-circle color=#5f6368 >}} [AI in 5 minuten](https://www.youtube.com/watch?v=2ePf9rue1Ao) <span style="float: right;">~5 min <span class="material-symbols-outlined" style="color: #9DC384;">hourglass_bottom</span></span>
 
-{{< icons/icon vendor=mdi name=timer-sand-complete color=#9DC384 >}}
+{{< icons/icon vendor=mdi name=play-circle color=#9DC384 >}}
 
-{{% mdi [timer-sand-complete] %}}
