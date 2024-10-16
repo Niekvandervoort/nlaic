@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Niek
+title: NL AIC
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: AI Researcher
+role: Werkgroep Publieke Diensten
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
