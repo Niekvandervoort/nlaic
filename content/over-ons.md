@@ -8,7 +8,7 @@ sections:
   - block: resume-biography-2
     content:
       title: 👋 Welkom bij de NL AIC
-      # Note: `username` refers to the user's folder name in `content/authors/`
+      # Note: `username` refers to the user's folder name in `content/auteur/`
       username: admin
     design:
       spacing:

@@ -2,7 +2,7 @@
 title: 🎓 Cursussen
 summary: Ontdek een breed scala aan cursussen en leermodules over AI, van certificaten tot gratis online trainingen, voor zowel professionals als geïnteresseerden.
 date: 2024-09-06
-authors:
+auteur:
 - admin
 tags:
 - Artificial Intelligence
