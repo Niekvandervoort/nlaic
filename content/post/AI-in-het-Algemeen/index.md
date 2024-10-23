@@ -12,20 +12,22 @@ tags:
 - Technology
 ---
 
-# 1. AI in het algemeen
-
----
+# 🤖 AI in het algemeen
 
 AI is een erg breed begrip met heel veel verschillende toepassingsgebieden. De rest van deze bundel gaat dan ook dieper in op de verschillende toepassingsgebieden. Het is echter van belang om ook het grotere plaatje voor ogen te hebben. Daarom hieronder een aantal bronnen die kunstmatige intelligentie in het algemeen op een toegankelijke manier uitleggen.
 
-{{< icons/icon vendor=mdi name=article color=#5f6368 >}} [Wat is AI?](https://www.ibm.com/topics/artificial-intelligence)
 
-{{< icons/icon vendor=mdi name=article color=#5f6368 >}} [Een introductie van AI](https://www.mckinsey.com/featured-insights/artificial-intelligence/what-is-ai)
+{{< youtube 2ePf9rue1Ao >}}
+{{< icon name="play-circle" pack="fas" >}}Artificiële Intelligentie (AI) in 5 minuten <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}5'</span>
 
-{{< icons/icon vendor=mdi name=article color=#5f6368 >}} [Waarom is er juist nu zoveel aandacht voor AI?](https://www.forbes.com/sites/bernardmarr/2023/03/20/why-is-artificial-intelligence-booming-right-now/)
+{{< icon name="bookmark" pack="fas" >}} [Wat is AI?](https://www.ibm.com/topics/artificial-intelligence) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}4'</span>
 
-{{< icons/icon vendor=mdi name=article color=#5f6368 >}} [Wat is Artificial General Intelligence?](https://www.techtarget.com/searchenterpriseai/definition/artificial-general-intelligence-AGI)
+{{< icon name="bookmark" pack="fas" >}} [Een introductie van AI](https://www.mckinsey.com/featured-insights/artificial-intelligence/what-is-ai) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}2'</span>
 
-{{< icons/icon vendor=mdi name=play-circle color=#9DC384 >}} [AI in 5 minuten](https://www.youtube.com/watch?v=2ePf9rue1Ao)
+{{< icon name="bookmark" pack="fas" >}} [Waarom is er juist nu zoveel aandacht voor AI?](https://www.forbes.com/sites/bernardmarr/2023/03/20/why-is-artificial-intelligence-booming-right-now/) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}3'</span>
+
+{{< icon name="bookmark" pack="fas" >}} [Wat is Artificial General Intelligence?](https://www.techtarget.com/searchenterpriseai/definition/artificial-general-intelligence-AGI) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}8'</span>
+
 
 {{< youtube 2IK3DFHRFfw >}}
+{{< icon name="play-circle" pack="fas" >}}Generatieve AI in een notendop <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}17'</span>
