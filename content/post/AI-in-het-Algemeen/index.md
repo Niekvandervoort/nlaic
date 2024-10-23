@@ -26,8 +26,13 @@ AI is een erg breed begrip met heel veel verschillende toepassingsgebieden. De r
 
 {{< icon name="bookmark" pack="fas" >}} [Waarom is er juist nu zoveel aandacht voor AI?](https://www.forbes.com/sites/bernardmarr/2023/03/20/why-is-artificial-intelligence-booming-right-now/) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}3'</span>
 
+<<<<<<< HEAD
 {{< icon name="bookmark" pack="fas" >}} [Wat is Artificial General Intelligence?](https://www.techtarget.com/searchenterpriseai/definition/artificial-general-intelligence-AGI) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}8'</span>
 
 
 {{< youtube 2IK3DFHRFfw >}}
 {{< icon name="play-circle" pack="fas" >}}Generatieve AI in een notendop <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}17'</span>
+=======
+
+{{< youtube 2IK3DFHRFfw >}}
+>>>>>>> 652e3ce85c4689cd478f502b8aa8a3a43cad30a5
