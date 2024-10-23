@@ -13,6 +13,4 @@ params:
   favicon: /static/icons/icon.png
 
 theme:
-  - mdi
-  - hugo-blox
-  
+  - mdi 
