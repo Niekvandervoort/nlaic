@@ -14,20 +14,8 @@ tags:
 
 # 🤖 AI in het algemeen
 
-Kunstmatige intelligentie (AI) is een technologie die computers in staat stelt om taken uit te voeren die normaal menselijke intelligentie vereisen. Denk hierbij aan het herkennen van spraak, het nemen van beslissingen, het vertalen van talen of het herkennen van patronen in grote hoeveelheden data. AI wordt steeds slimmer en kan steeds meer taken ondersteunen of zelfs overnemen van mensen.
+AI is een erg breed begrip met heel veel verschillende toepassingsgebieden. De rest van deze bundel gaat dan ook dieper in op de verschillende toepassingsgebieden. Het is echter van belang om ook het grotere plaatje voor ogen te hebben. Daarom hieronder een aantal bronnen die kunstmatige intelligentie in het algemeen op een toegankelijke manier uitleggen.
 
-## Verschillende vormen van AI
-
-In deze bundel bespreken we verschillende vormen van AI die elk hun eigen specialiteit hebben:
-
-- **Machine Learning**: Systemen die leren van data en ervaringen, zoals Netflix dat leert van je kijkgedrag
-- **Deep Learning**: Geavanceerde AI die werkt zoals onze hersenen, bijvoorbeeld voor gezichtsherkenning
-- **Generatieve AI**: Systemen die nieuwe content kunnen maken, zoals ChatGPT voor tekst of DALL-E voor afbeeldingen
-- **AI in bedrijven**: Toepassingen die bedrijfsprocessen verbeteren, zoals slimme klantenservice
-- **AI bij de overheid**: Gebruik van AI voor publieke diensten, zoals verkeersbeheer of fraudedetectie
-
-
-## Belangrijke bronnen om AI te begrijpen
 
 {{< youtube 2ePf9rue1Ao >}}
 {{< icon name="play-circle" pack="fas" >}}AI uitgelegd in 5 minuten - Een heldere introductie tot de basisprincipes van AI <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}5'</span>
@@ -51,7 +39,7 @@ In deze bundel bespreken we verschillende vormen van AI die elk hun eigen specia
 *Toegankelijke uitleg over hoe computers leren*
 
 {{< youtube 2IK3DFHRFfw >}}
-{{< icon name="play-circle" pack="fas" >}}Generatieve AI in een notendop - Ontdek de nieuwste AI-ontwikkeling <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}17'</span>
+{{< icon name="play-circle" pack="fas" >}}Generatieve AI in een notendop <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}17'</span>
 
 ## Samenvatting
 
