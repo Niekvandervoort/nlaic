@@ -13,58 +13,66 @@ tags:
 - Scientific Discovery
 ---
 
-# 5. AI in bedrijfsprocessen
+<style>
+.article-description {
+  display: block;
+  margin-left: 40px;
+  padding-left: 40px;
+  text-indent: -40px;
+}
+</style>
 
----
+# 💼 AI in bedrijfsprocessen
 
-AI is bijna niet meer weg te denken uit het bedrijfsleven. Zo gebruikt volgens het CBS ongeveer de helft van de Nederlandse bedrijven een AI technologie in verschillende bedrijfsprocessen.
+Kunstmatige intelligentie transformeert de manier waarop bedrijven werken. Van het automatiseren van routinetaken tot het ondersteunen van complexe besluitvorming - AI wordt steeds meer een onmisbaar onderdeel van moderne bedrijfsvoering. In Nederland gebruikt inmiddels bijna de helft van de grote bedrijven AI-technologie in hun dagelijkse processen.
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Meer dan de helft van de bedrijven gebruikt AI](https://example.com/dutch-companies-ai-usage) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+## Algemene toepassingen van AI in bedrijven
 
-<span class="material-symbols-outlined" style="color: #5f6368;">play_circle</span> [TED-Talk AI in het bedrijfsleven](https://example.com/ted-talk-ai-business) <span style="float: right;">~11 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+3' {{< icon name="clock" pack="fas" >}} [Bijna helft grote bedrijven gebruikt AI](https://www.cbs.nl/nl-nl/nieuws/2021/41/bijna-helft-grote-bedrijven-gebruikt-artificial-intelligence)<br>
+<span class="article-description">*Onderzoek van CBS naar AI-adoptie in Nederlandse bedrijven*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">play_circle</span> [Een introductie van Microsoft Copilot](https://example.com/ms-copilot-intro) <span style="float: right;">~1 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+11' {{< icon name="clock" pack="fas" >}} [Hoe AI bedrijven empowered](https://www.ted.com/talks/andrew_ng_how_ai_could_empower_any_business?subtitle=en)<br>
+<span class="article-description">*TED Talk over de democratisering van AI in het bedrijfsleven*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Een overzicht waar MS Copilot overal in terugkomt](https://example.com/ms-copilot-overview) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+1' {{< icon name="clock" pack="fas" >}} [Microsoft Copilot voor bedrijven](https://copilot.microsoft.com/)<br>
+<span class="article-description">*Introductie van AI-assistentie in Microsoft tools*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI voor healthcare met Google's MedLM](https://example.com/google-medlm) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+3' {{< icon name="clock" pack="fas" >}} [De Copilot Era](https://www.microsoft.com/en-us/microsoft-copilot/personal-ai-assistant)<br>
+<span class="article-description">*Overzicht van Microsoft's AI-integratie in bedrijfsprocessen*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">play_circle</span> [TED-Talk hoe AI educatie juist kan versterken](https://example.com/ted-talk-ai-education) <span style="float: right;">~15 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+## AI in specifieke sectoren
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Hoe DuoLingo AI gebruikt om sneller lessen te maken](https://example.com/duolingo-ai-lessons) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [Google's MedLM voor de zorgsector](https://cloud.google.com/blog/topics/healthcare-life-sciences/introducing-medlm-for-the-healthcare-industry)<br>
+<span class="article-description">*Specifieke AI-modellen voor de gezondheidszorg*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Hoe AI Scientific Discovery in de biologie accelereert](https://example.com/ai-biology-discovery) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+15' {{< icon name="clock" pack="fas" >}} [AI's impact op onderwijs](https://blog.khanacademy.org/sal-khans-2023-ted-talk-ai-in-the-classroom-can-transform-education/)<br>
+<span class="article-description">*Hoe AI het onderwijs transformeert*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Hoe AI impact heeft op verschillende bedrijfsprocessen](https://example.com/ai-impact-business-processes) <span style="float: right;">~15 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [DuoLingo's AI innovaties](https://blog.duolingo.com/duolingo-max/)<br>
+<span class="article-description">*Praktijkvoorbeeld van AI in taalonderwijs*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [De toekomst van AI & Robotics](https://example.com/future-ai-robotics) <span style="float: right;">~15 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [AI versnelt wetenschappelijke ontdekkingen](https://www.nature.com/articles/d41586-023-00096-z)<br>
+<span class="article-description">*Impact van AI op biologisch onderzoek*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">laptop_windows</span> [GitHub Copilot: Een assistent bij het programmeren](https://example.com/github-copilot) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+15' {{< icon name="clock" pack="fas" >}} [De staat van AI in 2023](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year)<br>
+<span class="article-description">*McKinsey's analyse van AI's impact op bedrijfsprocessen*</span>
 
-## 5.1 Sollicitatieprocedure
+## HR en Recruitment
 
----
+AI verandert ook hoe bedrijven talent werven en beheren. Van het screenen van CV's tot het voorspellen van personeelsbehoeften, AI maakt HR-processen efficiënter en effectiever.
 
-Een belangrijk proces om extra uit te lichten, is het sollicitatieproces. Er zijn namelijk talloze systemen die dit proces makkelijker maken, van werving tot het aannemen van medewerkers. De volgende artikelen en de volgende video laten zien hoe de sollicitatieprocedure wordt ondersteund door AI.
+3' {{< icon name="clock" pack="fas" >}} [AI's rol in modern talent management](https://fortune.com/2024/01/12/ai-playbook-c-suite-hr/)<br>
+<span class="article-description">*Nieuwe ontwikkelingen in AI-gedreven recruitment*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Recruitment door AI](https://example.com/ai-recruitment) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [AI bij sollicitaties: kansen en risico's](https://www.nu.nl/economie/6307125/ai-gebruiken-bij-sollicitaties-is-handig-maar-blijf-kritisch.html)<br>
+<span class="article-description">*Praktische tips voor het gebruik van AI in werving*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI bij het solliciteren](https://example.com/ai-job-applications) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+12' {{< icon name="clock" pack="fas" >}} [De toekomst van AI in recruitment](https://www.theguardian.com/technology/2024/mar/06/ai-interviews-job-applications)<br>
+<span class="article-description">*Diepgaande analyse van AI in sollicitatieprocedures*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Voorbeelden AI en solliciteren](https://example.com/ai-recruitment-examples) <span style="float: right;">~12 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+7' {{< icon name="clock" pack="fas" >}} [AI transformeert HR cultuur](https://www.worklife.news/technology/how-ai-upskilling-is-quickly-become-a-must-have-benefit-for-hr-to-offer-employees/)<br>
+<span class="article-description">*Het belang van AI-vaardigheden in moderne HR*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">play_circle</span> [Video AI en solliciteren](https://example.com/ai-recruitment-video) <span style="float: right;">~15 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+## Samenvatting
 
-## 5.2 HR
-
----
-
-De HR van een bedrijf of organisatie heeft vele aspecten waarbij AI bepaalde taken kan overnemen. De volgende artikelen gaan hier dieper op in.
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [De opkomst van AI in de HR](https://example.com/ai-in-hr-rise) <span style="float: right;">~7 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI vind HR opnieuw uit](https://example.com/ai-reinvents-hr) <span style="float: right;">~7 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI bij werving en selectie](https://example.com/ai-recruitment-selection) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">laptop_windows</span> [Interviewen met AI in de praktijk](https://example.com/ai-interview-practice) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+In dit hoofdstuk hebben we gezien hoe AI steeds dieper verankerd raakt in moderne bedrijfsprocessen. Van HR en recruitment tot specifieke toepassingen in onderwijs en gezondheidszorg - AI biedt nieuwe mogelijkheden voor efficiëntie en innovatie. Bedrijven die AI succesvol implementeren, zien verbeteringen in productiviteit, besluitvorming en klantervaring. Tegelijkertijd is het belangrijk om AI verantwoord in te zetten, met aandacht voor ethische overwegingen en menselijke expertise.
