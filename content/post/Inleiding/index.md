@@ -35,7 +35,7 @@ Je hoeft de hoofdstukken niet in volgorde te lezen - blader door de bundel en ve
 
 We beginnen deze ontdekkingsreis met een heldere YouTube-explainer van NOS op 3. Deze video legt in zeer begrijpelijke taal uit wat AI nu eigenlijk is en toont diverse praktische toepassingen. Het vormt een perfecte introductie tot de wereld van AI:
 
-{{< youtube 2ePf9rue1Ao >}}
+{{< youtube zqBcMa5IGwo >}}
 {{< icon name="play-circle" pack="fas" >}}Een toegankelijke introductie tot AI en zijn toepassingen <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}5'</span>
 
 We nodigen je uit om deze bundel te gebruiken als jouw gids in de wereld van AI. Of je nu een beginnende enthousiasteling bent of een ervaren professional, er valt altijd iets nieuws te ontdekken in dit snel ontwikkelende vakgebied.
