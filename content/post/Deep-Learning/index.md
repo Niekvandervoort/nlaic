@@ -11,74 +11,66 @@ tags:
 - NLP
 ---
 
-# 3. Deep Learning
+<style>
+.article-description {
+  display: block;
+  margin-left: 40px;
+}
+</style>
 
----
+# 🧠 Deep Learning
 
-Kort gezegd betekent deep learning dat de computer niet werkt met vooraf ingegeven data, maar zelf leert. Dit betekent dat AI software wordt getraind om het menselijk denken na te bootsen in plaats van één opdracht uit te voeren.
+Deep Learning representeert de volgende evolutie in kunstmatige intelligentie, waarbij computers niet alleen leren van data, maar ook complexe patronen kunnen herkennen op een manier die het menselijk brein nabootst. Deze technologie vormt de basis voor veel moderne AI-toepassingen, van gezichtsherkenning tot autonome voertuigen.
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Deep Learning uitgelegd](https://example.com/deep-learning-explained) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+In dit hoofdstuk verkennen we hoe deep learning werkt, wat neurale netwerken zijn, en hoe ze worden toegepast in Natural Language Processing. We kijken ook naar concrete voorbeelden die laten zien hoe deze technologie ons dagelijks leven beïnvloedt.
 
-<span class="material-symbols-outlined" style="color: #5f6368;">play_circle</span> [Deep Learning in 5 minuten](https://example.com/deep-learning-5-minutes) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+## Fundamenten van Deep Learning
 
-<span class="material-symbols-outlined" style="color: #5f6368;">play_circle</span> [YouTube playlist Deep Learning](https://example.com/youtube-deep-learning) <span style="float: right;">>1 uur <i class="material-icons" style="color: #D16D6A;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [Deep Learning Fundamentals](https://www.ibm.com/cloud/learn/deep-learning)<br>
+<span class="article-description">*Uitgebreide introductie in de werking van deep learning*</span>
 
-## 3.1 Neurale netwerken
+5' {{< icon name="clock" pack="fas" >}} [Deep Learning in 5 minuten](https://www.youtube.com/watch?v=6M5VXKLf4D4)<br>
+<span class="article-description">*Snelle visuele uitleg van deep learning concepten*</span>
 
----
+60' {{< icon name="clock" pack="fas" >}} [Complete Deep Learning Course](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)<br>
+<span class="article-description">*Diepgaande videoserie over deep learning principes*</span>
 
-Neurale netwerken maken het mogelijk het menselijke denken te implementeren in AI-systemen en zo deep learning mogelijk te maken. Onderstaande links leggen het begrip uit.
+## Neurale Netwerken
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Neurale netwerken uitgelegd](https://example.com/neural-networks-explained) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [Neurale Netwerken Basics](https://www.ibm.com/cloud/learn/neural-networks)<br>
+<span class="article-description">*Basisprincipes van neurale netwerken helder uitgelegd*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">play_circle</span> [Neurale netwerken in 5 minuten](https://example.com/neural-networks-5-minutes) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [Visuele Guide Neurale Netwerken](https://www.youtube.com/watch?v=bfmFfD2RIcg)<br>
+<span class="article-description">*Interactieve visualisatie van neurale netwerken*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Neurale netwerken verder uitgelegd](https://example.com/neural-networks-deep-dive) <span style="float: right;">~12 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+12' {{< icon name="clock" pack="fas" >}} [Advanced Neural Networks](https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_neural_networks.htm)<br>
+<span class="article-description">*Diepgaande technische details van neurale netwerken*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [De basisbeginselen van neurale netwerken](https://example.com/neural-networks-basics) <span style="float: right;">~15 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+15' {{< icon name="clock" pack="fas" >}} [Praktische Neural Networks Guide](https://www.simplilearn.com/tutorials/deep-learning-tutorial/neural-network)<br>
+<span class="article-description">*Stap-voor-stap handleiding voor het bouwen van neurale netwerken*</span>
 
-Dit hoofdstuk van de cursus Elements of AI vertelt meer over neurale netwerken en heeft een quiz.
+## Natural Language Processing
 
-## 3.2 Natural Language Processing
+13' {{< icon name="clock" pack="fas" >}} [NLP Fundamentals](https://www.ibm.com/cloud/learn/natural-language-processing)<br>
+<span class="article-description">*Basis concepten van natural language processing*</span>
 
----
+5' {{< icon name="clock" pack="fas" >}} [State of NLP](https://www.sas.com/en_us/insights/analytics/what-is-natural-language-processing-nlp.html)<br>
+<span class="article-description">*Actueel overzicht van NLP ontwikkelingen*</span>
 
-Natural Language Processing (NLP) is een verlengde van deep learning en neurale netwerken. Het is een toepassing waarbij taal op een natuurlijke manier wordt overgenomen en waarbij intonatie wordt meegenomen.
+2' {{< icon name="clock" pack="fas" >}} [Recent NLP Breakthroughs](https://www.nature.com/articles/d41586-023-00762-2)<br>
+<span class="article-description">*Laatste ontwikkelingen in NLP onderzoek*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Neural Language Processing uitgelegd](https://example.com/nlp-explained) <span style="float: right;">~13 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+## Praktische Toepassingen
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Verdere uitleg NLP](https://example.com/nlp-deep-dive) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+4' {{< icon name="clock" pack="fas" >}} [Netflix's AI Systemen](https://research.netflix.com/research-area/machine-learning)<br>
+<span class="article-description">*Hoe Netflix deep learning gebruikt voor aanbevelingen*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Onderzoek naar NLP](https://example.com/nlp-research) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+3' {{< icon name="clock" pack="fas" >}} [BLOOM Language Model](https://bigscience.huggingface.co/blog/bloom)<br>
+<span class="article-description">*Doorbraak in meertalige AI-modellen*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Voorbeelden NLP](https://example.com/nlp-examples) <span style="float: right;">~4 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [Top 10 Deep Learning Toepassingen](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/)<br>
+<span class="article-description">*Overzicht van moderne deep learning implementaties*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Uitleg conversational agent](https://example.com/conversational-agent-explained) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+## Samenvatting
 
-## 3.3 Concrete voorbeelden en toepassingen van deep learning
-
----
-
-### Netflix/YouTube algoritme
-
-De bekendste deep learning algoritmes zijn misschien wel die van Netflix/YouTube/Spotify etc. De volgende bron legt uit hoe deze algoritmes werken.
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Hoe gebruikt Netflix Deep Learning?](https://example.com/netflix-deep-learning) <span style="float: right;">~4 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-### Bloom-model
-
-Ook het Bloom-model is een goed voorbeeld van Deep Learning. Deze tool wordt op dit moment het meest accurate vertaalplatform van de wereld genoemd.
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Onderzoekers breken de taalbarrière](https://example.com/bloom-model) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-### Meer toepassingen
-
-De onderstaande link gaat iets dieper in op de toepassing van deep learning en presenteert de top 10 van de meest gebruikte algoritmes in deep learning.
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Verschillende toepassingen Deep Learning](https://example.com/deep-learning-applications) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-### Beelden met lage resolutie verbeteren
-
-Onderstaand onderzoek presenteert een studie naar het helder maken van beelden middels het vergroten van de resolutie met behulp van deep learning.
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Verduidelijken van visuele beelden](https://example.com/image-enhancement) <span style="float: right;">~20 min <i class="material-icons" style="color: #D16D6A;">hourglass_bottom</i></span>
+Deep Learning heeft een revolutie teweeggebracht in de wereld van AI. Door het nabootsen van de menselijke hersenen via neurale netwerken, kunnen computers nu taken uitvoeren die voorheen onmogelijk leken. Van het begrijpen van menselijke taal tot het herkennen van patronen in complexe datasets - deep learning maakt het mogelijk. De praktijkvoorbeelden die we hebben besproken, van Netflix's aanbevelingssysteem tot geavanceerde taalmodellen, laten zien hoe deze technologie al diep verweven is in ons dagelijks leven.

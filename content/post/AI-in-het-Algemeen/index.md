@@ -12,37 +12,57 @@ tags:
 - Technology
 ---
 
+<style>
+.article-description {
+ display: block;
+ margin-left: 40px;
+}
+</style>
+
 # 🤖 AI in het algemeen
 
-AI is een erg breed begrip met heel veel verschillende toepassingsgebieden. De rest van deze bundel gaat dan ook dieper in op de verschillende toepassingsgebieden. Het is echter van belang om ook het grotere plaatje voor ogen te hebben. Daarom hieronder een aantal bronnen die kunstmatige intelligentie in het algemeen op een toegankelijke manier uitleggen.
+Kunstmatige intelligentie (AI) is een technologie die computers in staat stelt om taken uit te voeren die normaal menselijke intelligentie vereisen. Denk hierbij aan het herkennen van spraak, het nemen van beslissingen, het vertalen van talen of het herkennen van patronen in grote hoeveelheden data. AI wordt steeds slimmer en kan steeds meer taken ondersteunen of zelfs overnemen van mensen.
 
+## Verschillende vormen van AI
 
-{{< youtube 2ePf9rue1Ao >}}
-{{< icon name="play-circle" pack="fas" >}}AI uitgelegd in 5 minuten - Een heldere introductie tot de basisprincipes van AI <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}5'</span>
+In deze bundel bespreken we verschillende vormen van AI die elk hun eigen specialiteit hebben:
 
-{{< icon name="bookmark" pack="fas" >}} [Wat is AI? - Een duidelijke uitleg van IBM](https://www.ibm.com/topics/artificial-intelligence) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}4'</span>
-*Een heldere basisuitleg over wat AI is en hoe het werkt*
+- **Machine Learning**: Systemen die leren van data en ervaringen, zoals Netflix dat leert van je kijkgedrag
+- **Deep Learning**: Geavanceerde AI die werkt zoals onze hersenen, bijvoorbeeld voor gezichtsherkenning
+- **Generatieve AI**: Systemen die nieuwe content kunnen maken, zoals ChatGPT voor tekst of DALL-E voor afbeeldingen
+- **AI in bedrijven**: Toepassingen die bedrijfsprocessen verbeteren, zoals slimme klantenservice
+- **AI bij de overheid**: Gebruik van AI voor publieke diensten, zoals verkeersbeheer of fraudedetectie
 
-{{< icon name="bookmark" pack="fas" >}} [Een introductie van AI door McKinsey](https://www.mckinsey.com/featured-insights/artificial-intelligence/what-is-ai) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}2'</span>
-*Overzicht van AI-toepassingen in het bedrijfsleven*
+![AI Overview](https://www.v7labs.com/blog/content/images/2023/06/types-of-ai-header.webp)
 
-{{< icon name="bookmark" pack="fas" >}} [Waarom is er juist nu zoveel aandacht voor AI?](https://www.forbes.com/sites/bernardmarr/2023/03/20/why-is-artificial-intelligence-booming-right-now/) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}3'</span>
-*Forbes legt uit waarom AI momenteel zo'n grote impact heeft*
+## Belangrijke bronnen om AI te begrijpen
 
-{{< icon name="bookmark" pack="fas" >}} [Wat is Artificial General Intelligence?](https://www.techtarget.com/searchenterpriseai/definition/artificial-general-intelligence-AGI) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}8'</span>
-*Uitleg over AGI: AI die menselijke intelligentie evenaar*
+5' {{< icon name="clock" pack="fas" >}} [AI uitgelegd in 5 minuten](https://www.youtube.com/watch?v=2ePf9rue1Ao)<br>
+<span class="article-description">*Een heldere introductie tot de basisprincipes van AI*</span>
 
-{{< icon name="bookmark" pack="fas" >}} [De ethische kant van AI](https://www.weforum.org/agenda/2024/01/ai-ethics-principles-framework/) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}6'</span>
-*Belangrijke overwegingen bij de ontwikkeling van AI*
+4' {{< icon name="clock" pack="fas" >}} [Wat is AI?](https://www.ibm.com/topics/artificial-intelligence)<br>
+<span class="article-description">*Een heldere basisuitleg over wat AI is en hoe het werkt*</span>
 
-{{< icon name="bookmark" pack="fas" >}} [Hoe werkt Machine Learning?](https://www.nature.com/articles/nature14539) <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}5'</span>
-*Toegankelijke uitleg over hoe computers leren*
+2' {{< icon name="clock" pack="fas" >}} [Een introductie van AI](https://www.mckinsey.com/featured-insights/artificial-intelligence/what-is-ai)<br>
+<span class="article-description">*Overzicht van AI-toepassingen in het bedrijfsleven*</span>
 
-{{< youtube 2IK3DFHRFfw >}}
-{{< icon name="play-circle" pack="fas" >}}Generatieve AI in een notendop <span style="float: right;">{{< icon name="clock" pack="fas" style="color: #9DC384;" >}}17'</span>
+3' {{< icon name="clock" pack="fas" >}} [Waarom is er juist nu zoveel aandacht voor AI?](https://www.forbes.com/sites/bernardmarr/2023/03/20/why-is-artificial-intelligence-booming-right-now/)<br>
+<span class="article-description">*Forbes legt uit waarom AI momenteel zo'n grote impact heeft*</span>
+
+8' {{< icon name="clock" pack="fas" >}} [Wat is Artificial General Intelligence?](https://www.techtarget.com/searchenterpriseai/definition/artificial-general-intelligence-AGI)<br>
+<span class="article-description">*Uitleg over AGI: AI die menselijke intelligentie evenaar*</span>
+
+6' {{< icon name="clock" pack="fas" >}} [De ethische kant van AI](https://www.weforum.org/agenda/2024/01/ai-ethics-principles-framework/)<br>
+<span class="article-description">*Belangrijke overwegingen bij de ontwikkeling van AI*</span>
+
+5' {{< icon name="clock" pack="fas" >}} [Hoe werkt Machine Learning?](https://www.nature.com/articles/nature14539)<br>
+<span class="article-description">*Toegankelijke uitleg over hoe computers leren*</span>
+
+17' {{< icon name="clock" pack="fas" >}} [Generatieve AI in een notendop](https://www.youtube.com/watch?v=2IK3DFHRFfw)<br>
+<span class="article-description">*Ontdek de nieuwste AI-ontwikkeling*</span>
 
 ## Samenvatting
 
-In dit hoofdstuk hebben we kennisgemaakt met de basisbegrippen van kunstmatige intelligentie. We hebben gezien dat AI veel meer is dan alleen ChatGPT of DALL-E. Het is een verzameling van verschillende technologieën die elk hun eigen sterke punten hebben. Van systemen die patronen herkennen in data tot AI die nieuwe content kan maken - ze dragen allemaal bij aan de ontwikkeling van slimmere computers die ons kunnen helpen bij allerlei taken.
+In dit hoofdstuk hebben we kennisgemaakt met de fundamenten van kunstmatige intelligentie in haar huidige vorm. AI blijkt veel meer te zijn dan de veelbesproken tools als ChatGPT of DALL-E - het is een rijk ecosysteem van verschillende technologieën, elk met hun eigen toepassingsgebieden en mogelijkheden. Van patroonherkenning in grote datasets tot het genereren van nieuwe content, AI evolueert naar een technologie die niet alleen taken automatiseert maar ook menselijke capaciteiten versterkt en nieuwe mogelijkheden creëert.
 
-De bronnen in dit hoofdstuk geven je een goede basis om AI te begrijpen. Ze leggen uit hoe AI werkt, waarom het nu zo belangrijk is, en wat we in de toekomst kunnen verwachten. In de volgende hoofdstukken gaan we dieper in op elk type AI en zijn toepassingen.
+De bronnen in dit hoofdstuk bieden een stevige basis voor het begrijpen van AI's huidige staat en toekomstige potentieel. Ze behandelen niet alleen de technische aspecten, maar ook de maatschappelijke impact en ethische overwegingen die cruciaal zijn voor een verantwoorde ontwikkeling van AI. In de volgende hoofdstukken zullen we dieper ingaan op specifieke AI-technologieën en hun praktische toepassingen in verschillende domeinen.

@@ -13,96 +13,69 @@ tags:
 - Environment
 ---
 
-# 6. AI binnen overheidsdomeinen
+<style>
+.article-description {
+  display: block;
+  margin-left: 40px;
+}
+</style>
 
----
+# 🏛️ AI binnen overheidsdomeinen
 
-Naast bedrijven is de overheid ook een grote afnemer van AI-systemen. Hier volgen een aantal algemene bronnen over de inzet van AI bij overheden. Daarna wordt er dieper in gegaan op de verschillende domeinen.
+Kunstmatige intelligentie speelt een steeds grotere rol binnen de Nederlandse overheid. Van slimme camera's die het verkeer monitoren tot AI-systemen die helpen bij het opsporen van fraude - de toepassingen zijn talrijk en divers. De overheid zet AI in om dienstverlening te verbeteren, processen te optimaliseren en nieuwe inzichten te verkrijgen uit beschikbare data.
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI binnen de overheid](https://example.com/ai-in-government) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+In dit hoofdstuk verkennen we hoe verschillende overheidsinstanties AI inzetten, welke innovaties er zijn, en hoe deze technologie bijdraagt aan een effectievere publieke sector.
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [GPT-NL: De ontwikkeling van Nederlandse AI](https://example.com/gpt-nl-development) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+## AI in de Publieke Sector
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Visie van het kabinet over de inzet van AI](https://example.com/dutch-government-ai-vision) <span style="float: right;">~4 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [Algoritmes in de Overheid](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/algoritmes/algoritmekader/)<br>
+<span class="article-description">*Kader voor verantwoord gebruik van algoritmes door de overheid*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">play_circle</span> [AI in de Publieke Sector Podcast](https://example.com/ai-public-sector-podcast) <span style="float: right;">~25 min <i class="material-icons" style="color: #D16D6A;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [Nederlands AI Taalmodel](https://nlaic.com/projecten/gpt-nl-een-eigen-open-taalmodel-voor-nederland/)<br>
+<span class="article-description">*Ontwikkeling van een Nederlands AI-taalmodel voor de publieke sector*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">play_circle</span> [Onverwacht Innovatief: Podcast AI overheid Vlaanderen](https://example.com/ai-flanders-government-podcast) <span style="float: right;">~20 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+4' {{< icon name="clock" pack="fas" >}} [Kabinetsvisie Generatieve AI](https://www.rijksoverheid.nl/documenten/kamerstukken/2024/01/18/kamerbrief-bij-overheidsbrede-visie-generatieve-ai-artificiele-intelligentie)<br>
+<span class="article-description">*Recente visie van het kabinet op de inzet van AI*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Ontwerpen binnen de overheid met AI](https://example.com/ai-design-government) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+25' {{< icon name="clock" pack="fas" >}} [AI Innovaties bij de Overheid](https://open.spotify.com/show/34vm5zMEFyXIiRp9bFzLyJ)<br>
+<span class="article-description">*Podcast over innovatieve AI-toepassingen in de publieke sector*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Het potentieel van AI binnen de overheid](https://example.com/ai-potential-government) <span style="float: right;">~8 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+## Toezicht en Handhaving
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [700 usecases van hoe de USA overheid AI gebruikt](https://example.com/usa-government-ai-usecases) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+3' {{< icon name="clock" pack="fas" >}} [Drones en AI bij de NVWA](https://nlaic.com/publieke-diensten/marktvisie-voor-ai-beeldherkenning-met-drones-mede-gelanceerd-door-nl-aic/)<br>
+<span class="article-description">*Innovatieve inzet van drones voor inspectie en handhaving*</span>
 
-## 6.1 Toezicht en handhaving
+5' {{< icon name="clock" pack="fas" >}} [AI bij de Politie](https://www.uu.nl/organisatie/alumni/alumni-over-morgen/alle-verhalen/bas-testerink)<br>
+<span class="article-description">*Hoe de politie AI inzet voor effectiever politiewerk*</span>
 
----
+4' {{< icon name="clock" pack="fas" >}} [AI in Wetshandhaving](https://www.bnr.nl/nieuws/technologie/10515656/bekijk-ai-als-een-ervaren-maar-niet-zo-n-snuggere-collega)<br>
+<span class="article-description">*Praktische toepassingen van AI in wetshandhaving*</span>
 
-De overheid gebruikt AI al reeds voor verschillende doeleinden binnen enkele domeinen. Van het in kaart brengen van gebieden door middel van drones tot het uitvoeren van reguliere controles. Hier volgen enkele voorbeelden.
+## Infrastructuur en Mobiliteit
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Marktvisie van de overheid op de inzet van drones](https://example.com/government-drones-market-vision) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+4' {{< icon name="clock" pack="fas" >}} [Slimmer Wegonderhoud](https://www.binnenlandsbestuur.nl/digitaal/rijkswaterstaat-maakt-infrastructuur-slimmer-met-behulp-van-kunstmatige-intelligentie)<br>
+<span class="article-description">*AI-gedreven onderhoud van Nederlandse wegen*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Gebruik AI bij surveillance](https://example.com/ai-surveillance) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [AI in de Bouw](https://www.letsbuild.com/nl/blog/artificial-intelligence-future-construction)<br>
+<span class="article-description">*Toekomst van AI in infrastructurele projecten*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI binnen de internationale politie](https://example.com/ai-international-police) <span style="float: right;">~12 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+## Smart Cities en Leefomgeving
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI maakt politiewerk makkelijker én moeilijker](https://example.com/ai-police-work-impact) <span style="float: right;">~4 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+2' {{< icon name="clock" pack="fas" >}} [Robotisering bij Gemeenten](https://vng.nl/praktijkvoorbeelden/robot-met-ai-functie-werkt-3-jaar-achterstand-weg)<br>
+<span class="article-description">*Praktijkvoorbeeld van AI-implementatie bij gemeenten*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Cop Out Tech: Waar wordt al gebruik van gemaakt?](https://example.com/cop-out-tech-usage) <span style="float: right;">~7 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+3' {{< icon name="clock" pack="fas" >}} [Amsterdam's Algoritmeregister](https://www.amsterdam.nl/innovatie/digitalisering-technologie/algoritmeregister/)<br>
+<span class="article-description">*Transparantie over AI-gebruik in de hoofdstad*</span>
 
-De NVWA gebruikt vooral AI in de vorm van drones en beeldherkenning tijdens bijvoorbeeld controle op bestrijdingsmiddelen bij gewassen of het herkennen van illegale visserij. Ook Rijkswaterstaat gebruikt AI voor o.a. onderhoudsdoeleinden.
+4' {{< icon name="clock" pack="fas" >}} [Generatieve AI bij Gemeenten](https://www.gemeente.nu/bedrijfsvoering/digitalisering/generatieve-ai-voor-gemeenten-nog-een-zoektocht/)<br>
+<span class="article-description">*Verkenning van nieuwe AI-mogelijkheden*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Drones bij controles op bestrijdingsmiddelen (NVWA)](https://example.com/nvwa-drones-pesticides) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+10' {{< icon name="clock" pack="fas" >}} [De Pratende Stad](https://decorrespondent.nl/9148/in-de-stad-van-de-toekomst-praten-lantaarnpalen-mee-en-burgers-niet/2704b9ee-2939-0ea1-0cae-cf446620f2c3)<br>
+<span class="article-description">*Toekomstvisie op AI in de stedelijke omgeving*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Hoe AI de NVWA ondersteunt](https://example.com/ai-support-nvwa) <span style="float: right;">~4 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+2' {{< icon name="clock" pack="fas" >}} [Innovatieve Inspecties](https://rwsinnoveert.nl/focuspunten/data-iv/@208874/bruginspectie-drones/)<br>
+<span class="article-description">*Gebruik van drones bij infrastructurele inspecties*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Voorbeeld van drones bij toezicht](https://example.com/drones-surveillance-example) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+## Samenvatting
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Toezicht op dierenwelzijn](https://example.com/animal-welfare-surveillance) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Controle op oevers doormiddel van AI (Rijkswaterstaat)](https://example.com/ai-shore-control-rijkswaterstaat) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-## 6.2 Opsporing
-
----
-
-Naast toezicht en handhaving kan AI ook ondersteuning bieden bij opsporing. Zo heeft de politie een keer een deep fake (een door AI gegenereerde video) gebruikt voor opsporingsdoeleinden.
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Politie zet deep fake in bij opsporing](https://example.com/police-deepfake-investigation) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI bij het aangifteproces](https://example.com/ai-police-reports) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Gezichtsherkenning](https://example.com/facial-recognition) <span style="float: right;">~10 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
-
-## 6.3 Infrastructuur
-
----
-
-Ter verbetering van de infrastructuur wordt tegenwoordig veel AI gebruikt. Dit gebeurt bijvoorbeeld door beeldherkenning op wegen of andere infrastructuur. De volgende bronnen geven hier meer inzicht in.
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI maakt de infrastructuur slimmer](https://example.com/ai-smart-infrastructure) <span style="float: right;">~4 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI en de toekomst van de bouw](https://example.com/ai-future-construction) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Controle op oevers doormiddel van AI](https://example.com/ai-shore-control) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-## 6.4 Milieu en omgeving
-
----
-
-AI in het domein milieu en omgeving is vooral binnen gemeenten aanwezig. Zo zijn er veel verschillende soorten toepassingen van AI. Bijvoorbeeld het in kaart brengen van zwerfvuil, het controleren van foutparkeerders, maar ook simpelweg het verwerken van klachten door chatbots.
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [De praktijk van AI binnen de gemeente](https://example.com/ai-municipality-practice) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [De kansen van AI in beeld](https://example.com/ai-opportunities-visualized) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Algoritmes binnen de gemeente Amsterdam](https://example.com/algorithms-amsterdam-municipality) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Generatieve AI voor gemeenten nog een zoektocht](https://example.com/generative-ai-municipalities-exploration) <span style="float: right;">~4 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI assistent verbetert contact met burgers](https://example.com/ai-assistant-citizen-contact) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [In de toekomst praat de stad zelf mee](https://example.com/future-city-communication) <span style="float: right;">~10 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
-
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Voorbeeld drone gebruik](https://example.com/drone-usage-example) <span style="float: right;">~2 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+De Nederlandse overheid zet steeds meer in op AI om haar dienstverlening te verbeteren en processen te optimaliseren. Van slim toezicht met drones tot het automatiseren van administratieve taken - AI transformeert de publieke sector. Belangrijk hierbij is de balans tussen innovatie en zorgvuldigheid, waarbij transparantie en ethisch gebruik van AI voorop staan. De voorbeelden in dit hoofdstuk laten zien dat AI niet alleen efficiëntie brengt, maar ook nieuwe mogelijkheden creëert voor betere publieke dienstverlening.

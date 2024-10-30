@@ -12,44 +12,60 @@ tags:
 - Productivity
 ---
 
-# 8. Het werk van de toekomst
+<style>
+.article-description {
+  display: block;
+  margin-left: 40px;
+}
+</style>
 
----
+# 🔮 Het werk van de toekomst
 
-Robots en AI kunnen vele taken van de mens overnemen. Zo heerst er al jaren de gedachte dat dit banen gaat kosten op den duur. Het zou echter ook zo kunnen zijn dat er juist weer banen gecreëerd worden. Onderstaande bronnen gaan dieper in op dit debat.
+De opkomst van AI en robotisering transformeert de arbeidsmarkt in een ongekend tempo. Terwijl er zorgen zijn over het verdwijnen van bepaalde banen, ontstaan er tegelijkertijd nieuwe mogelijkheden en beroepen. Deze transitie vraagt om een nieuwe kijk op werk, vaardigheden en de rol van mensen in een door AI ondersteunde werkomgeving.
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Het debat over het werk van de toekomst](https://example.com/future-work-debate) <span style="float: right;">~9 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+In dit hoofdstuk verkennen we hoe AI de arbeidsmarkt verandert, welke verschuivingen we kunnen verwachten, en hoe we ons kunnen voorbereiden op de toekomst van werk.
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Nemen robots ons werk over?](https://example.com/robots-taking-jobs) <span style="float: right;">~4 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+## De Veranderende Arbeidsmarkt
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Het werk van de toekomst uitgelegd](https://example.com/future-work-explained) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+9' {{< icon name="clock" pack="fas" >}} [Jobs Lost, Jobs Gained](https://www.mckinsey.com/featured-insights/future-of-work/jobs-lost-jobs-gained-what-the-future-of-work-will-mean-for-jobs-skills-and-wages)<br>
+<span class="article-description">*McKinsey's analyse van arbeidsmarkttransformatie*</span>
 
-## 8.1 Welke banen worden overgenomen?
+4' {{< icon name="clock" pack="fas" >}} [Mens vs. Machine](https://www.weforum.org/agenda/2024/02/artificial-intelligence-ai-jobs-future/)<br>
+<span class="article-description">*World Economic Forum's visie op automatisering*</span>
 
----
+3' {{< icon name="clock" pack="fas" >}} [De Toekomst van Werk](https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-after-covid-19)<br>
+<span class="article-description">*Impact van AI en digitalisering op werkpatronen*</span>
 
-Zoals uit de vorige paragraaf duidelijk is geworden kunnen sommige banen worden overgenomen door AI gestuurde systemen. De volgende bronnen geven meer inzicht in welke sectoren dit precies zijn.
+## Impact op Bestaande Banen
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Welke banen verdwijnen?](https://example.com/disappearing-jobs) <span style="float: right;">~4 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+4' {{< icon name="clock" pack="fas" >}} [Banen in Transitie](https://www.weforum.org/agenda/2024/02/artificial-intelligence-ai-jobs-future/)<br>
+<span class="article-description">*Analyse van sectoren in transformatie*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Het IMF geeft aan dat AI 40% van de banen wijzigt](https://example.com/imf-ai-job-impact) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [IMF: AI's Impact op 40% van Banen](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity)<br>
+<span class="article-description">*Wereldwijde analyse van AI's impact op werk*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [PWC geeft aan dat in NL AI 44% van de banen wijzigt](https://example.com/pwc-nl-ai-job-impact) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+3' {{< icon name="clock" pack="fas" >}} [Nederlandse Arbeidsmarkt en AI](https://www.pwc.nl/nl/actueel-en-publicaties/themas/de-toekomst-van-werk/helft-nederlandse-banen-verandert-significant-door-generatieve-ai.html)<br>
+<span class="article-description">*PWC's onderzoek naar AI-impact in Nederland*</span>
 
-## 8.2 Welke banen ontstaan er?
+## Nieuwe Kansen en Beroepen
 
----
+3' {{< icon name="clock" pack="fas" >}} [Nieuwe Banen door AI](https://www.weforum.org/agenda/2024/02/artificial-intelligence-ai-jobs-future/)<br>
+<span class="article-description">*Opkomende functies en specialisaties*</span>
 
-Ondanks dat er veel banen verdwijnen met de komst van AI en robotisering, zijn er ook veel banen die juist gecreëerd worden door deze shift. Uit de bronnen hieronder wordt duidelijk welke baankansen er zijn in de toekomst.
+3' {{< icon name="clock" pack="fas" >}} [Productiviteitsrevolutie](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)<br>
+<span class="article-description">*AI's rol in productiviteitsverhoging*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [AI creëert meer banen dan het doet verdwijnen](https://example.com/ai-job-creation) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+15' {{< icon name="clock" pack="fas" >}} [AI's Economic Impact](https://www.accenture.com/us-en/insights/artificial-intelligence/ai-maturity-and-transformation)<br>
+<span class="article-description">*Wereldwijde economische effecten van AI-adoptie*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Hogere productiviteit door AI](https://example.com/ai-productivity-boost) <span style="float: right;">~3 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+## Mens-AI Samenwerking
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Wereldwijd 40% meer productiviteit verwacht door AI](https://example.com/global-ai-productivity-increase) <span style="float: right;">~15 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+8' {{< icon name="clock" pack="fas" >}} [Nieuwe Waardecreatie](https://hbr.org/2021/03/ai-should-augment-human-intelligence-not-replace-it)<br>
+<span class="article-description">*Herbezinning op menselijke toegevoegde waarde*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Welke soorten banen worden er gecreëerd?](https://example.com/new-job-types-ai) <span style="float: right;">~15 min <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+5' {{< icon name="clock" pack="fas" >}} [De Hybride Werkplek](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year)<br>
+<span class="article-description">*Toekomstvisie op mens-AI samenwerking*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [Een nieuwe kijk op toegevoerde waarde](https://example.com/new-perspective-added-value) <span style="float: right;">~8 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+## Samenvatting
 
-<span class="material-symbols-outlined" style="color: #5f6368;">article</span> [De samenwerking van mens met AI](https://example.com/human-ai-collaboration) <span style="float: right;">~5 min <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+De impact van AI op de arbeidsmarkt is ingrijpend maar genuanceerd. Terwijl ongeveer 40-50% van de huidige banen significant zal veranderen door AI, ontstaan er tegelijkertijd nieuwe functies en specialisaties. De sleutel tot succes ligt niet in het tegenhouden van deze ontwikkeling, maar in het omarmen van de transformatie en het ontwikkelen van nieuwe vaardigheden. De toekomst van werk draait om effectieve mens-AI samenwerking, waarbij technologie menselijke capaciteiten versterkt in plaats van vervangt.

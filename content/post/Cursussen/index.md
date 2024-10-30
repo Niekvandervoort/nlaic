@@ -12,38 +12,65 @@ tags:
 - Professional Development
 ---
 
-# 9. Cursussen
+<style>
+.article-description {
+  display: block;
+  margin-left: 40px;
+}
+</style>
 
----
+# 🎓 Cursussen
 
-Het AI voor Business & Government certificaat is door de Nederlandse AI Coalitie en Van Haren Learning Solutions ontwikkeld als standaard voor de werkende professional die AI in zijn professionele omgeving wil inzetten. Om dit certificaat te behalen kun je de syllabus lezen of leermodules volgen.
+Met de snelle ontwikkeling van AI-technologie groeit ook de behoefte aan kennis en vaardigheden op dit gebied. Het AI voor Business & Government certificaat, ontwikkeld door de Nederlandse AI Coalitie en Van Haren Learning Solutions, is uitgegroeid tot de standaard voor professionals die AI in hun werkomgeving willen implementeren. Dit certificaat biedt een gedegen basis voor het begrijpen en toepassen van AI in een professionele context.
 
-Mede mogelijk gemaakt door de Nederlandse AI Coalitie
+In dit hoofdstuk presenteren we verschillende leerpaden, van officiële certificeringsprogramma's tot toegankelijke online cursussen, die je helpen je AI-kennis te verdiepen.
 
-<span class="material-symbols-outlined" style="color: #5f6368;">school</span> [Certificaat AI voor Business & Government](https://example.com/ai-business-government-certificate) <span style="float: right;">Betaald <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+## Nederlandse AI Certificering
 
-<span class="material-symbols-outlined" style="color: #5f6368;">menu_book</span> [Syllabus AI voor Business & Government](https://example.com/ai-business-government-syllabus) <span style="float: right;">Gratis <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+15' {{< icon name="clock" pack="fas" >}} [AI voor Business & Government Certificaat](https://nlaic.com/bouwsteen/human-capital/ai-for-business-government/)<br>
+<span class="article-description">*Officiële certificering voor AI in professionele context*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">laptop_mac</span> [Leermodule - I AM DIGITAL](https://example.com/i-am-digital-module) <span style="float: right;">Betaald <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+10' {{< icon name="clock" pack="fas" >}} [AI for Business & Government Syllabus](https://nlaic.com/wp-content/uploads/2022/04/Syllabus-AI-For-Business-and-Government-nov-20211-def.pdf)<br>
+<span class="article-description">*Gratis studiemateriaal voor het certificeringstraject*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">laptop_mac</span> [Leermodule AI voor Business & Government - Axveco](https://example.com/axveco-ai-module) <span style="float: right;">Betaald <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+20' {{< icon name="clock" pack="fas" >}} [I AM DIGITAL Training Platform](https://iamdigital.nl/ai-for-business-and-government-online)<br>
+<span class="article-description">*Interactieve leermodules voor professionals*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">business_center</span> [Sector specifieke AI cursussen](https://example.com/sector-specific-ai-courses) <span style="float: right;">Gratis <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+15' {{< icon name="clock" pack="fas" >}} [Axveco AI Implementatie Training](https://axveco.com/en/artificial-intelligence/)<br>
+<span class="article-description">*Praktijkgerichte AI-training voor bedrijven*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">school</span> [Educatieplatform voor bij- en omscholing](https://example.com/ai-education-platform) <span style="float: right;">Mix <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+## Sector-Specifieke Opleidingen
 
-## Overige cursussen
+10' {{< icon name="clock" pack="fas" >}} [AI Cursussen per Sector](https://nlaic.com/bouwsteen/human-capital/nationale-ai-cursussen/)<br>
+<span class="article-description">*Specialistische AI-trainingen voor verschillende sectoren*</span>
 
----
+20' {{< icon name="clock" pack="fas" >}} [Nationaal Educatieplatform](https://www.rijksoverheid.nl/actueel/nieuws/2023/09/14/kabinet-stimuleert-bij--en-omscholing-voor-banen-van-de-toekomst)<br>
+<span class="article-description">*Overheidsplatform voor AI bij- en omscholing*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">school</span> [Vrijblijvende kwalitatieve AI cursussen](https://example.com/free-ai-courses) <span style="float: right;">Gratis <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+## Gratis Online Cursussen
 
-<span class="material-symbols-outlined" style="color: #5f6368;">school</span> [Elements of AI](https://example.com/elements-of-ai) <span style="float: right;">Gratis <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+8' {{< icon name="clock" pack="fas" >}} [Elements of AI](https://www.elementsofai.com/)<br>
+<span class="article-description">*Toegankelijke introductie tot AI-concepten*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">school</span> [Nationale AI Cursus](https://example.com/national-ai-course) <span style="float: right;">Gratis <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+12' {{< icon name="clock" pack="fas" >}} [Nationale AI Cursus](https://www.ai-cursus.nl/)<br>
+<span class="article-description">*Nederlandse basiscursus over AI*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">laptop_mac</span> [Vrijblijvende AI Skill building vanuit Amazon](https://example.com/amazon-ai-skill-building) <span style="float: right;">Gratis <i class="material-icons" style="color: #9DC384;">hourglass_bottom</i></span>
+15' {{< icon name="clock" pack="fas" >}} [Amazon AI Skills Challenge](https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses)<br>
+<span class="article-description">*Praktische AI-vaardigheden van Amazon*</span>
 
-<span class="material-symbols-outlined" style="color: #5f6368;">school</span> [Coursera - Verschillende opleidingen](https://example.com/coursera-ai-courses) <span style="float: right;">Betaald <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+## Internationale Leerplatforms
 
-<span class="material-symbols-outlined" style="color: #5f6368;">school</span> [Cursus data en ethiek - Utrecht data school](https://example.com/utrecht-data-ethics-course) <span style="float: right;">Betaald <i class="material-icons" style="color: #F9DB78;">hourglass_bottom</i></span>
+Variabel {{< icon name="clock" pack="fas" >}} [Coursera AI Programma's](https://www.coursera.org/courses?query=artificial%20intelligence)<br>
+<span class="article-description">*Uitgebreid aanbod van AI-cursussen op verschillende niveaus*</span>
+
+20' {{< icon name="clock" pack="fas" >}} [Google AI Learning Path](https://cloud.google.com/learn/training/machinelearning-ai)<br>
+<span class="article-description">*Google's AI-trainingsmateriaal en certificeringen*</span>
+
+## Ethiek en Verantwoord AI-gebruik
+
+15' {{< icon name="clock" pack="fas" >}} [Data Ethics for Professionals](https://dataschool.nl/onderwijs/digital-ethics/)<br>
+<span class="article-description">*Ethische aspecten van AI en data-gebruik*</span>
+
+## Samenvatting
+
+Het Nederlandse AI-onderwijslandschap biedt een rijk scala aan mogelijkheden voor zowel beginners als gevorderden. Van officiële certificeringen tot gratis online cursussen - er zijn leerpaden beschikbaar voor elk niveau en elke behoefte. De combinatie van theoretische kennis en praktische toepassingen zorgt ervoor dat professionals goed voorbereid zijn op de AI-gedreven toekomst van hun vakgebied.
