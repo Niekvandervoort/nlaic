@@ -33,7 +33,6 @@ In deze bundel bespreken we verschillende vormen van AI die elk hun eigen specia
 - **AI in bedrijven**: Toepassingen die bedrijfsprocessen verbeteren, zoals slimme klantenservice
 - **AI bij de overheid**: Gebruik van AI voor publieke diensten, zoals verkeersbeheer of fraudedetectie
 
-![AI Overview](https://www.v7labs.com/blog/content/images/2023/06/types-of-ai-header.webp)
 
 ## Belangrijke bronnen om AI te begrijpen
 
