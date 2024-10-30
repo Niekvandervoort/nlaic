@@ -10,7 +10,6 @@ tags:
 - Publieke Diensten
 ---
 
-[NL AIC Logo](content/authors/admin/NLAIClogo.jpg)
 
 ## Wat is de NL AIC?
 

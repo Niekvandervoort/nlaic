@@ -9,7 +9,7 @@ tags:
 - Kunstmatige Intelligentie
 ---
 
-# AI Tools gebruikt op deze site
+# Voorbeelden van toegepaste AI -work in progress-
 
 ---
 
