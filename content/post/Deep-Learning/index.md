@@ -1,7 +1,7 @@
 ---
 title: 🧠 Deep Learning
 summary: Ontdek de wereld van deep learning, neurale netwerken, en natural language processing met praktische voorbeelden en bronnen.
-date: 2024-09-25
+date: 2025-07-05
 auteur:
 - admin
 tags:
