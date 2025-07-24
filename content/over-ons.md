@@ -1,7 +1,7 @@
 ---
 title: Over Ons
 summary: Leer meer over de NL AIC en hoe deze website is ontwikkeld om AI-toepassingen in de publieke sector toegankelijk te maken.
-date: 2024-10-16
+date: 2025-07-10
 authors:
 - NL AIC
 tags:
