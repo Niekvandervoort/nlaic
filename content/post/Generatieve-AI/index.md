@@ -1,7 +1,7 @@
 ---
 title: 🎨 Generatieve AI
 summary: Ontdek de fascinerende wereld van generatieve AI, inclusief toepassingen in tekst, beeld, video, en audio, met een blik op de toekomst van AI-agents.
-date: 2024-09-20
+date: 2025-07-01
 auteur:
 - admin
 tags:
