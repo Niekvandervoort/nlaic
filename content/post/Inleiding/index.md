@@ -1,7 +1,7 @@
 ---
 title: 📚 AI Bundel Introductie
 summary: Een uitgebreide verzameling van bronnen over kunstmatige intelligentie, van fundamentele concepten tot praktische toepassingen.
-date: 2024-10-30
+date: 2025-07-15
 show_date: false
 authors:
 - admin
