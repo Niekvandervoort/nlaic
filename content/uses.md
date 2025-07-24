@@ -1,7 +1,7 @@
 ---
 title: AI Tools gebruikt op deze site
 summary: Een overzicht van vooraanstaande AI-tools die gebruikt zijn voor deze website, inclusief hun toepassingen en waar ze te vinden zijn.
-date: 2024-10-16
+date: 2025-07-05
 authors:
 - admin
 tags:
