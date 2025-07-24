@@ -1,7 +1,7 @@
 ---
 title: 🔮 Het werk van de toekomst
 summary: Verken de impact van AI op de arbeidsmarkt, welke banen mogelijk verdwijnen, welke nieuwe banen ontstaan, en hoe AI de productiviteit kan verhogen.
-date: 2024-09-10
+date: 2025-06-14
 auteur:
 - admin
 tags:
