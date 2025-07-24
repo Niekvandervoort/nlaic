@@ -1,7 +1,7 @@
 ---
 title: ⚖️ AI Wetgeving
 summary: Ontdek de ontwikkelingen in AI-wetgeving, de uitdagingen die AI met zich meebrengt, en hoe overheden en bedrijven hierop reageren.
-date: 2024-09-12
+date: 2025-06-17
 auteur:
 - admin
 tags:
