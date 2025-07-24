@@ -1,7 +1,7 @@
 ---
 title: 🏛️ AI binnen overheidsdomeinen
 summary: Ontdek hoe AI wordt toegepast binnen verschillende overheidsgebieden, van toezicht en handhaving tot infrastructuur en milieu.
-date: 2024-09-15
+date: 2025-06-20
 auteur:
 - admin
 tags:
